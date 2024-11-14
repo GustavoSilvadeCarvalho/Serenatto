@@ -1,11 +1,11 @@
-# Fokus
+# Serenatto
 
 Site da cafeteria "Serenatto"
 
-## 🔨 Funcionalidades do projeto
+## ☕️ Funcionalidades do projeto
 O projeto é uma aplicação web simples e criada com Bootstrap, em um ambiente visual agradável.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 🍰 Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
 
